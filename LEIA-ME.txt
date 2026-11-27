@@ -1,0 +1,15 @@
+SUBVERSO — site demonstrativo
+
+COMO VER:
+- Abra o arquivo index.html em um navegador.
+
+COMO PUBLICAR E TER UM LINK:
+- Envie a pasta/ZIP para um serviço de hospedagem estática, como Netlify Drop ou GitHub Pages.
+- O arquivo inicial é index.html.
+
+IMPORTANTE SOBRE ESTA VERSÃO:
+- O painel permite criar e apagar eventos.
+- A primeira vez que abrir "Área do administrador", crie uma senha com pelo menos 6 caracteres.
+- Eventos, comentários e mensagens ficam no armazenamento local do navegador (localStorage).
+- Isso é uma demonstração funcional para visualizar o projeto, não um sistema multiusuário.
+- A senha e os dados não são protegidos por um servidor. Para uso público real, será necessário conectar um backend com autenticação e banco de dados.
